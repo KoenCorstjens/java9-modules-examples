@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# intelij
+.iml
+
 # BlueJ files
 *.ctxt
 
@@ -20,3 +23,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+.idea/
+example1/example1.iml
+example1/src/main/resources/
+example1/src/test/
+example1/target/
+example2/example2.iml
+example2/src/main/resources/
+example2/src/test/
+example2/target/
